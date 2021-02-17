@@ -1,0 +1,33 @@
+body {
+  background-color: #eef2ff;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.App {
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+a {
+  text-decoration: none;
+  color: #2b1f21;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #2b1f21;
+}
+
+img {
+  display: "block";
+  margin: "5px 5px";
+}
